@@ -181,32 +181,24 @@ Teacher Dashboard
 
 
 **Lokesh S**
-
 Email : lokeshluckey2009@gmail.com
 Roll No. : 24HM5A3005
-
 GitHub: https://github.com/lokeshluckey2009-sys
 
 1. Name : Harigala Johnny Ashish
 Email : johnyashish2004@gmail.com
-
 Roll No. :24HM5A3002
 
 2. Name : Ravi Krishna
-
 Email : pujariravikrishna@gmail.com
-
 Roll No. : 24HM5A3004
 
 3. Name : Tripada Varshitha Mayuram
-
 Email :tripadamayuram@gmail.com
-
 Roll No. :23HM1A3028
+
 4. Name : N Yaswitha Reddy
-
 Email :yeshuu1329@gmail.com
-
 Roll No. :23HM1A3029
 
 ---
