@@ -54,14 +54,12 @@ dist/
 # ==========================
 # Model Checkpoints
 # ==========================
-checkpoints/
 runs/
 outputs/
 
 # ==========================
 # Large AI Models
 # ==========================
-models/bltsm/*.keras
 models/bltsm/*.h5
 
 models/bert_emotion_model_final/model.safetensors
