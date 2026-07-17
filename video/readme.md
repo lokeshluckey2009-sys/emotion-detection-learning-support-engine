@@ -5,15 +5,8 @@
 All project demonstration videos for the **Emotion Detection & Learning Support Engine** are available in the Google Drive folder below.
 
 🔗 **Paste your Google Drive Folder Link Here**
-https://drive.google.com/file/d/1uk1j3-n33GaUFZPPjdlpPYcQQf11y0FT/view?usp=sharing
+[https://drive.google.com/file/d/1uk1j3-n33GaUFZPPjdlpPYcQQf11y0FT/view?usp=sharing](https://drive.google.com/drive/folders/1_6PN43lPPRbu461BeYgzEEI5XMIERe4n?usp=sharing)
 ---
-
-## 🌐 Application Demonstration
-
-Watch the complete application demonstration here.
-
-🔗 **Paste your Streamlit Application Demo Video Link Here**
-https://drive.google.com/file/d/1uk1j3-n33GaUFZPPjdlpPYcQQf11y0FT/view?usp=sharing
 ---
 
 ## 📊 Features Demonstrated
